@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajinkya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajinkyaanwade" alt="ajinkyaanwade" /></a> </p>
 
-- 🌱 I’m currently learning **C-DAC**
+- 🌱 I have completed my **C-DAC** training
 
 - 📫 How to reach me **ajinkya.anwade512000@gmail.com**
 
